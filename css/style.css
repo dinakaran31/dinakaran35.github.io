@@ -1778,7 +1778,8 @@ padding-top: 3px;
 	}
 
 	.flexslider .flex-caption {
-		display:inline-block;
+		display:inline;
+		position: relative;
 	}
 
 
