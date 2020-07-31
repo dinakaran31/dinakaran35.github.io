@@ -1779,7 +1779,7 @@ padding-top: 3px;
 
 	.flexslider .flex-caption {
 		display:inline;
-		position: relative;
+		position: absolute;
 	}
 
 
